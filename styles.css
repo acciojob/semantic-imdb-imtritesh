@@ -1,2 +1,46 @@
 
 /* Your CSS Code here. */
+    header {
+      background-color: lightseagreen;
+      text-align: center;
+      padding: 30px;
+    }
+    
+    nav {
+      background-color: gray;
+      text-align: center;
+      padding: 10px;
+    }
+    
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 50px;
+    }
+    
+    summary {
+      background-color: lightgray;
+      text-align: center;
+      padding: 20px;
+      font-style: italic;
+    }
+    
+    section {
+      background-color: #cce0e4;
+      text-align: center;
+      padding: 20px;
+    }
+    
+    aside {
+      background-color: lightgray;
+      text-align: center;
+      padding: 10px;
+      font-style: italic;
+    }
+    
+    footer {
+      background-color: gray;
+      text-align: center;
+      padding: 10px;
+      color: white;
+    }
